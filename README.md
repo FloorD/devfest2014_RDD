@@ -72,25 +72,22 @@ For those people counting: there are more plusses than minuses, which totally su
 
 ### What makes a good Readme?
 **airbnb for cats**
-Describe what it is that your project makes easier. Provide code examples detailing how the use of the library. Document the installation process. Strive to grab the attention of your reader early. This can be easily accomplished with a well-written introductory paragraph. Use strong or emphasised text to give a short description of what the software does, such as “Receive emails in your Rails app”. 
+Describe what problem your project solves. Use strong or emphasised text to give a short description of what the software does, such as “use bitcoin in your Rails app”. Provide code examples detailing how to use your library. Document the installation process. 
 
 **formatting is key**
-Your readers will most likely view your README in a browser. Please keep that in mind when formatting its content. Put the name of the library in an ```<h1>``` at the beginning of the file. Categorize content using two or three levels of header beneath. Make use of emphasis to call out important words. Link to project pages for related libraries you mention. Link to Wikipedia, Wiktionary, even Urban Dictionary definitions for words of which a reader may not be familiar. 
+Your readers will most likely view your Readme in a browser, get familiar with markdown's formatting. Link to project pages for related libraries you mention. Link to Wikipedia or other websites for definitions for words a reader may not be familiar with. 
 
 **rrrrr code samples**
-Developers love to see code samples, and a few lines of syntax highlighted source are worth a thousand words. Use them for good: what libraries does your code interface with, how can your software be used alongside popular gems?
+Developers love to see code samples and a few lines of syntax highlighted source are worth a thousand words. Use them for good: what libraries does your code interface with, how can your software be used alongside popular gems?
 
 **community and licensing details**
 Add information about the maintainers, licensing, links to community platforms like IRC or a Google Group and make sure to mention where people could list issues and suggestions and how they could contribute to your project. 
 
-**community and licensing specs**
-Add information about the maintainers, licensing, links to community platforms like IRC or a Google Group and make sure to mention where people could list issues and suggestions and how they could contribute to your project. 
-
 **air your dirty laundry in public**
-Be aware that sometimes the reason someone is visiting your project’s page is that they have a problem. If you know about persistent issues, such as resolving a functional dependency, call that out in a section of its own and provide a solution or workaround. 
+Be aware that sometimes the reason someone is visiting your project’s page is that they have a problem. If you know about persistent issues, call that out in a section of its own and provide a solution or workaround. 
 
 **OMG badges**
-Codeclimate and Travis badges are all the rage! Just remember that they reflect on your project—a passing build with high quality code attracts developers to your library, while a failing master build will drive them away.
+Codeclimate and Travis badges are all the rage! Just remember that they reflect on your project. A passing build with high quality code attracts developers to your library, while a failing master build will likely drive them away.
 
 #### Readmore:
 [http://tom.preston-werner.com/2010/08/23/readme-driven-development.html](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html ) 
